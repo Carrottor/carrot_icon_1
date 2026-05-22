@@ -169,7 +169,11 @@
          {
             "name": "guaiporn2",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/guaiporn2.png"            
-         }         
+         },
+         {
+            "name": "nox",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/nox.png"            
+         }        
     ]
 }
 
