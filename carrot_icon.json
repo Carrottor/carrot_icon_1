@@ -183,9 +183,13 @@
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yingluoting1.png"            
          },
          {
-            "name": "yxio",
-            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yxio.png" 
-         }    
+            "name": "yxio_w",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yxio_w.png" 
+         },
+         {
+            "name": "yxio_b",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/yxio_b.png" 
+         }        
     ]
 }
 
