@@ -189,6 +189,14 @@
          {
             "name": "mdl-gf",
             "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/mdl-gf.png" 
+         },
+         {
+            "name": "fych",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/fych.png" 
+         },
+         {
+            "name": "MAGPIE",
+            "url": "https://raw.githubusercontent.com/Carrottor/carrot_icon_1/main/icon/MAGPIE.png" 
          }        
     ]
 }
